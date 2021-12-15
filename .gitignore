@@ -1,2 +1,5 @@
-Dist/python-3.8.6-amd64.exe
-Python_Pakker/*
+Dist/*
+Python_Pakker/get-pip.py
+Python_Pakker/Wheels_Packages/*
+
+!/**/.gitkeep
