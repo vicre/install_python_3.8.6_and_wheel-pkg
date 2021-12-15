@@ -1,6 +1,6 @@
 Dist/*
-Python_Pakker/*
-
+Python_Pakker/get-pip.py
+Python_Pakker/Wheels_Packages/*
 
 # !Python_Pakker/.gitkeep
 
